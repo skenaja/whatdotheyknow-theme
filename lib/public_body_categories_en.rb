@@ -73,6 +73,8 @@ PublicBodyCategories.add(:en, [
             [ "security_services", "Security services", "a security services body" ],
         "Emergency services and the courts",
             [ "police", "Police forces", "a police force" ], 
+			[ "pcc", "Police and Crime Commissioners", "a Police and Crime Commissoner" ], 
+			[ "pcpanel", "Police and Crime Panels", "a local police scrutiny body" ], 
             [ "police_authority", "Police authorities", "a police authority" ], 
             [ "dpp", "District policing partnerships", "a district policing partnership" ],
             [ "fire_service", "Fire and rescue services", "a fire and rescue service" ],
