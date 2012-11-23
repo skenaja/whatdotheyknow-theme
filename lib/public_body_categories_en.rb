@@ -75,7 +75,7 @@ PublicBodyCategories.add(:en, [
             [ "police", "Police forces", "a police force" ], 
             [ "police_crime_commissioner", "Police and Crime Commissioners", "a Police and Crime Commissoner" ],
             [ "police_crime_panel", "Police and Crime Panels", "a local police scrutiny body" ],             
-            [ "police_authority", "Police authorities", "a police authority" ], 
+            [ "police_authority", "Police authorities (now defunct)", "a police authority" ], 
             [ "dpp", "District policing partnerships", "a district policing partnership" ],
             [ "fire_service", "Fire and rescue services", "a fire and rescue service" ],
             [ "prob_board", "Probation boards", "a probation board" ],
