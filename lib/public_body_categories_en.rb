@@ -69,18 +69,16 @@ PublicBodyCategories.add(:en, [
         "Health",
             [ "nhs", "NHS bodies", "a part of the National Health Service" ],
             [ "nhstrust", "NHS trusts", "an NHS trust" ],
-            [ "pct", "Primary care trusts", "a primary care trust" ],
+            [ "ccg", "Clinical Commissioning Groups", "a Clinical Commissioning Group" ],
             [ "nhswales", "NHS in Wales", "a part of the NHS in Wales" ],
             [ "chc", "Community Health Councils (Wales)", "an independent local NHS watchdog in Wales" ],
             [ "nhsni", "NHS in Northern Ireland", "part of the NHS in Northern Ireland" ],
-            [ "commissioning_consortium", "GP commissioning consortia", "a GP commissioning consortium" ],
             [ "hscr", "Health / social care", "Relating to health / social care" ],
             [ "his", "Health Informatic Services", "a health informatics service" ],
             [ "optician", "Opticians", "an optician"],
             [ "pharmacy", "Pharmacies", "a pharmacy"],
             [ "pha", "Port health authorities", "a port health authority"],
             [ "pho", "Public health observatories", "a public health observatory"],
-            [ "sha", "Strategic health authorities", "a strategic health authority" ],
             [ "specialha", "Special health authorities", "a special health authority" ],
         "Media and culture",
             [ "media", "Media", "a media organisation" ],
@@ -134,8 +132,10 @@ PublicBodyCategories.add(:en, [
           [ "rcc", "Cultural consortia", "a cultural consortium" ],
           [ "government_office", "Government offices for the regions", "a government office for the regions" ],
           [ "police_authority", "Police authorities", "a police authority" ],
+          [ "pct", "Primary care trusts", "a primary care trust" ],			
           [ "regional_assembly", "Regional assemblies", "a regional assembly" ],
           [ "rda", "Regional development agencies", "a regional development agency" ],
-          [ "rfdc", "Regional flood defence committees", "a regional flood defence committee" ]
+          [ "rfdc", "Regional flood defence committees", "a regional flood defence committee" ],
+          [ "sha", "Strategic health authorities ", "a strategic health authority " ]		  
     ]
 )
